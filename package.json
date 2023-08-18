@@ -1,4 +1,12 @@
 {
   "name": "@ascodeasice/first",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "logs hello world message",
+  "license": "MIT",
+  "repository": "ascodeasice/first-npm-package",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "package"
+  ]
 }
